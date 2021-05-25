@@ -1,4 +1,4 @@
-s = '07:05:45PM';
+
 
 function timeConversion(s){
     const arr = s.slice(0,8).split(':');

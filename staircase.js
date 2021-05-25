@@ -8,4 +8,4 @@ if(n >0 && n <= 100){
 }
 }
 
-staircase(95);
+staircase(15);
