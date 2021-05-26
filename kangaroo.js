@@ -10,5 +10,4 @@ console.log(result);
 return result;
 }
 
-
 kangaroo(0, 2 ,5 ,3);
